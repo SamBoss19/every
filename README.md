@@ -1,1 +1,1 @@
-# samboss19.every
+# every
